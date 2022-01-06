@@ -8,7 +8,7 @@ local placeId = game.PlaceId
 -- init
 
 local library = loadstring(game:HttpGet("https://gist.githubusercontent.com/PowerxHero4/7e3ed165c9b646188b81852c0884a4c0/raw/51629548586da9a667bd7d1c6252faab3efad4c1/Ui"))() --someone reuploaded it so I put it in place of the original back up so guy can get free credit.
-local Power = library.new("Prem HUB v.1", 5013109572)
+local Power = library.new("PREM HUB V.1, 5013109572)
 
 local ui = game:GetService("CoreGui"):FindFirstChild("objects")
 if ui then
